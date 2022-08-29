@@ -8,9 +8,6 @@ Knight Tour Chess
      print all configurations of the chess board representing the route
      of knight through the chess board. Use sample input and output to get more idea.
 
-Note -> When moving from (r, c) to the possible 8 options give first precedence to (r - 2, c + 1) and
+Note ->  moving from (r, c) to the possible 8 options give first precedence to (r - 2, c + 1) and
                move in clockwise manner to
                explore other options.
-Note -> The online judge can't force you to write the function recursively but that is what the spirit of
-               question is. Write recursive and not iterative logic. The purpose of the question is to aid
-               learning recursion and not test you.
